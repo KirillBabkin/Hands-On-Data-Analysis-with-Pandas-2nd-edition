@@ -5,3 +5,6 @@ __pycache__/
 *.png
 *.dot
 build/
+*.ipynb
+ch_01/checking_your_setup.ipynb
+ch_01/checking_your_setup.ipynb
